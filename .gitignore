@@ -1,0 +1,6 @@
+**/__pycache__/
+.env
+.vscode
+deployment_config.json
+build/
+Myenv/
